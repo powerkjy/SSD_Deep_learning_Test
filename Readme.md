@@ -4,6 +4,8 @@
 
 김준영
 
+김동환
+
 >### prototype scenario
 
 >#### 1. nvidia docker 환경구축
