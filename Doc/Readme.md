@@ -27,3 +27,4 @@
 
 >#### chromling
 >##### https://jeongmin-lee.tistory.com/4
+>##### https://libsora.so/posts/python-hangul/
