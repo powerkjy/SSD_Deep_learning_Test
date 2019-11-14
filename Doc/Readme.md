@@ -21,3 +21,6 @@
 
 >#### frame work
 >#### https://m.blog.naver.com/PostView.nhn?blogId=sundooedu&logNo=221195984077&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+>#### how to make pbtxt
+>##### http://www.birc.co.kr/2018/02/18/object-detection-with-tensorflow-api/
