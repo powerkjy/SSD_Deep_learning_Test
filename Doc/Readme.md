@@ -4,6 +4,8 @@
 >##### https://brunch.co.kr/@hopeless/10
 >##### http://pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book
 
+>#### what is SSD
+>##### https://jeongchul.tistory.com/529
 
 >#### learning?
 >##### http://hrepository.blogspot.com/2018/12/ssd-customizing-with-my-dataset-and.html
