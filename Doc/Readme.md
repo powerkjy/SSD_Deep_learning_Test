@@ -17,6 +17,7 @@
 >#### docker use gui??
 >##### https://goodgodgd.github.io/ian-flow/archivers/docker-tutorial
 >##### https://www.youtube.com/watch?v=vn5AxBw6bbw
+>##### https://www.whatwant.com/entry/tightVNC-Server-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-Ubuntu-1204-1404-1604
 
 >#### frame work
 >#### https://m.blog.naver.com/PostView.nhn?blogId=sundooedu&logNo=221195984077&proxyReferer=https%3A%2F%2Fwww.google.com%2F
