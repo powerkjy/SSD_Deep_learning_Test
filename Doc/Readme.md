@@ -4,6 +4,7 @@
 >##### https://brunch.co.kr/@hopeless/10
 >##### http://pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book
 >##### http://www.kwangsiklee.com/2018/02/%EC%A0%95%EB%A6%AC-ubuntu%EC%84%9C%EB%B2%84%EC%97%90-nvidia-docker-%EC%84%A4%EC%B9%98-%ED%95%98%EA%B8%B0/
+>##### http://iamartin-gh.herokuapp.com/ubuntu-16-04-docker-install/
 
 >#### what is SSD
 >##### https://jeongchul.tistory.com/529
