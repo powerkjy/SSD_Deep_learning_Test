@@ -13,3 +13,6 @@
 >##### http://hrepository.blogspot.com/2018/12/ssd-customizing-with-my-dataset-and.html
 >##### https://github.com/balancap/SSD-Tensorflow
 >##### https://github.com/weiliu89/caffe/tree/ssd
+
+>#### docker use gui??
+>##### https://goodgodgd.github.io/ian-flow/archivers/docker-tutorial
