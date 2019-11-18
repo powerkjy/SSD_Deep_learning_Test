@@ -28,3 +28,6 @@
 >#### chroling
 >##### https://jeongmin-lee.tistory.com/4
 >##### https://libsora.so/posts/python-hangul/
+
+>#### make tfrecord
+>##### https://github.com/balancap/SSD-Tensorflow/blob/master/datasets/pascalvoc_to_tfrecords.py
