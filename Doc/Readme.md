@@ -31,3 +31,6 @@
 
 >#### make tfrecord
 >##### https://github.com/balancap/SSD-Tensorflow/blob/master/datasets/pascalvoc_to_tfrecords.py
+
+>#### use jupyter notebook
+>##### http://moducon.kr/2018/wp-content/uploads/sites/2/2018/12/leesangsoo_slide.pdf
