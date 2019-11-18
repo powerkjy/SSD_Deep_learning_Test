@@ -34,3 +34,6 @@
 
 >#### use jupyter notebook
 >##### http://moducon.kr/2018/wp-content/uploads/sites/2/2018/12/leesangsoo_slide.pdf
+
+>#### tensorflow 1.x -> tensorflow 2.0 code upgrade
+>##### https://www.tensorflow.org/guide/upgrade?hl=ko
