@@ -5,6 +5,8 @@
 김준영
 
 김동환
+>## env
+>### tensorflow 1.14.0, tensorflow-gpu 1.14.0, keras defalt, numpy 1.16.4, scipy defalt, matplotlib defalt, spyder defalt
 
 >### prototype scenario
 
