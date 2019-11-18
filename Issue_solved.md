@@ -6,6 +6,6 @@
   - `tf.enable_eager_execution()`
 
 ##_tkinter.TclError: couldn't connect to display ":0"
-   - `import matplotlib'
+   - `import matplotlib`
    - `matplotlib.use('pdf')`
    - `import matplotlib.pyplot as plt`
