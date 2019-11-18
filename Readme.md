@@ -6,7 +6,7 @@
 
 김동환
 >## env
->### tensorflow 1.14.0, tensorflow-gpu 1.14.0, keras defalt, numpy 1.16.4, scipy defalt, matplotlib defalt, spyder defalt
+>### tensorflow 1.14.0, tensorflow-gpu 1.14.0, keras defalt, numpy 1.16.4, scipy defalt, matplotlib defalt, spyder defalt, apt-get install python3-tk
 
 >### prototype scenario
 
