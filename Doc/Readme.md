@@ -37,3 +37,23 @@
 
 >#### tensorflow 1.x -> tensorflow 2.0 code upgrade
 >##### https://www.tensorflow.org/guide/upgrade?hl=ko
+
+
+
+
+
+
+def main(_):    
+
+    print(os.getcwd())
+    writer = tf.python_io.TFRecordWriter('data/train.record')
+    # path = os.path.join(FLAGS.image_dir)
+    path = 'images/train'
+    # examples = pd.read_csv(FLAGS.csv_input)
+    examples = pd.read_csv('data/train_labels.csv')
+    grouped = split(examples, 'filename')
+    for group in grouped:
+        tf_example = create_tf_example(group, path)
+        writer.write(tf_example.SerializeToString())
+    writer.close()
+    output_path = os.path.join(os.getcwd(), FLAGS.output_path)
