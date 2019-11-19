@@ -25,7 +25,7 @@
 >#### how to make pbtxt
 >##### http://www.birc.co.kr/2018/02/18/object-detection-with-tensorflow-api/
 
->#### chroling
+>#### crawling
 >##### https://jeongmin-lee.tistory.com/4
 >##### https://libsora.so/posts/python-hangul/
 
