@@ -37,3 +37,6 @@
 
 >#### tensorflow 1.x -> tensorflow 2.0 code upgrade
 >##### https://www.tensorflow.org/guide/upgrade?hl=ko
+
+>#### xml to csv
+>##### https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/
