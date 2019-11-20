@@ -40,3 +40,6 @@
 
 >#### xml to csv
 >##### https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/
+
+>#### csv to tfrecord
+>##### https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py
